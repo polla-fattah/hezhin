@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Please visit our office or contact us via phone or email. Our location is 32 Park, Sarbasty, Erbil, Iraq
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
