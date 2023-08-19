@@ -4,84 +4,36 @@ date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+We understand the intricacies of modern networks and offer robust solutions to optimize, secure, and manage them. Whether you're looking to maintain uptime, ensure data security, or achieve seamless connectivity, our expertise stands as your reliable pillar.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## **Core Services and Expertise**
 
-# Objectives
+1. **Cisco Network Solutions**: 
+   - **Infrastructure Deployment**: Harnessing the prowess of Cisco's globally trusted hardware, we set up routers, switches, and other network devices ensuring optimal performance and scalability.
+   - **Cisco IOS Management**: We ensure your Cisco devices are always updated, configured, and running efficiently with the latest Cisco IOS versions.
+   - **Unified Communications**: Streamline communications with integrated solutions for voice, video, data, and mobile applications on fixed and mobile networks.
 
-Financial accounting and financial reporting are often used as synonyms.
+2. **VPN (Virtual Private Network)**:
+   - **Secure Remote Access**: Allow your employees and stakeholders secure access to your business network from any location without compromising on security.
+   - **Site-to-Site VPNs**: Connect multiple branch offices to a main office, ensuring they all stay on the same network.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+3. **Network Security**:
+   - **Firewall Management**: Implementing and managing firewalls to protect your network from malicious intrusions.
+   - **Intrusion Detection and Prevention Systems (IDPS)**: Real-time monitoring and proactive defense mechanisms to identify and counteract network threats.
+   - **Regular Network Audits**: Periodic checks to ensure that your network is free from vulnerabilities.
 
-## Relevance
+4. **Fiber Optics**:
+   - **High-Speed Connectivity**: Leveraging the speed and reliability of fiber optics to ensure lightning-fast data transfer and minimal latency.
+   - **Fiber Optic Installation & Maintenance**: Deploying fiber optic cables with precision and ensuring their longevity through regular maintenance.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+5. **Router Management**:
+   - **Router Configuration & Optimization**: Setting up routers to handle data efficiently, ensuring maximum uptime and optimal data transfer rates.
+   - **Fault Tolerance & Redundancy**: Implementing backup systems and pathways to ensure data flow remains uninterrupted, even in the face of hardware failures.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
+## **Tailored Network Solutions for Modern Challenges**
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+The digital landscape is constantly evolving, bringing forth new challenges in the realm of network management. Whether you're battling external security threats, internal data traffic bottlenecks, or the need for seamless remote work solutions, Hezhin stands prepared.
 
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Our hands-on experience with industry-leading technologies like Cisco and our in-depth understanding of network frameworks mean that we're not just managing networks; we're future-proofing businesses.
